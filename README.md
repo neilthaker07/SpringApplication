@@ -26,9 +26,10 @@ Got bean with its id.
 Called getGreeting method and printed its returned value.    
 Like : Hello world from Alice!   
 
-Overall files:
-
-Interface : Greeter
-Classes : World  - main class for applicationcontext
+Overall files:   
+  
+Interface : Greeter    
+Classes : World  - main class for applicationcontext   
           GreeterWorld implements Greeter
-beans.xml
+beans.xml   
+   
